@@ -5,3 +5,4 @@ Git tracks changes of files!
 Git push test!
 Creating a new branch is quick.
 Fast-merge!!
+Creating a new branch is quick & simple.
